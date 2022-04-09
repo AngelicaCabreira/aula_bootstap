@@ -1,0 +1,39 @@
+
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #04b40498;
+}
+
+.super-mario{
+    background-color: #38d838a4;
+    color: darkgreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.margin{
+        padding-bottom: 50px;
+        padding-top: 10px;
+}
+
+.personagens{
+    background-color: #38d838a4;
+    color: darkgreen;
+}
+
+.outros-personagens{
+    background-color: #38d838a4;
+    color: darkgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bg-footer{
+    background-color: #38d838a4;
+    color: darkgreen;
+}
+
+.nav-link{
+    color: darkgreen;
+}
